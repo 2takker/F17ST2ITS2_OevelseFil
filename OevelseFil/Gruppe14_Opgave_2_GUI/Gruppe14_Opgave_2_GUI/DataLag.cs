@@ -20,7 +20,6 @@ namespace Data
         string[] iFields;
         string path;
 
-
         public DataLag()
         {
 
