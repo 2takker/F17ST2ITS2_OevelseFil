@@ -1,0 +1,24 @@
+C:\Users\2takk\Documents\Visual Studio 2015\VSProjects\F17\Gruppe14_Opgave_2_GUI\Gruppe14_Opgave_2_GUI\bin\Debug\Gruppe14_Opgave_2_GUI.exe.config
+C:\Users\2takk\Documents\Visual Studio 2015\VSProjects\F17\Gruppe14_Opgave_2_GUI\Gruppe14_Opgave_2_GUI\bin\Debug\Gruppe14_Opgave_2_GUI.exe
+C:\Users\2takk\Documents\Visual Studio 2015\VSProjects\F17\Gruppe14_Opgave_2_GUI\Gruppe14_Opgave_2_GUI\bin\Debug\Gruppe14_Opgave_2_GUI.pdb
+C:\Users\2takk\Documents\Visual Studio 2015\VSProjects\F17\Gruppe14_Opgave_2_GUI\Gruppe14_Opgave_2_GUI\obj\Debug\Gruppe14_Opgave_2_GUI.csprojResolveAssemblyReference.cache
+C:\Users\2takk\Documents\Visual Studio 2015\VSProjects\F17\Gruppe14_Opgave_2_GUI\Gruppe14_Opgave_2_GUI\obj\Debug\Gruppe14_Opgave_2_GUI.dataGUI.resources
+C:\Users\2takk\Documents\Visual Studio 2015\VSProjects\F17\Gruppe14_Opgave_2_GUI\Gruppe14_Opgave_2_GUI\obj\Debug\Gruppe14_Opgave_2_GUI.Properties.Resources.resources
+C:\Users\2takk\Documents\Visual Studio 2015\VSProjects\F17\Gruppe14_Opgave_2_GUI\Gruppe14_Opgave_2_GUI\obj\Debug\Gruppe14_Opgave_2_GUI.csproj.GenerateResource.Cache
+C:\Users\2takk\Documents\Visual Studio 2015\VSProjects\F17\Gruppe14_Opgave_2_GUI\Gruppe14_Opgave_2_GUI\obj\Debug\Gruppe14_Opgave_2_GUI.exe
+C:\Users\2takk\Documents\Visual Studio 2015\VSProjects\F17\Gruppe14_Opgave_2_GUI\Gruppe14_Opgave_2_GUI\obj\Debug\Gruppe14_Opgave_2_GUI.pdb
+C:\Users\2takk\Documents\Visual Studio 2015\VSProjects\F17\Gruppe14_Opgave_2_GUI\Gruppe14_Opgave_2_GUI\obj\Debug\Gruppe14_Opgave_2_GUI.formBS.resources
+C:\Users\2takk\Documents\Visual Studio 2015\VSProjects\F17\Gruppe14_Opgave_2_GUI\Gruppe14_Opgave_2_GUI\obj\Debug\Gruppe14_Opgave_2_GUI.formBT.resources
+C:\Users\2takk\Documents\Visual Studio 2015\VSProjects\F17\Gruppe14_Opgave_2_GUI\Gruppe14_Opgave_2_GUI\obj\Debug\Gruppe14_Opgave_2_GUI.formBMI.resources
+C:\Users\2takk\Documents\GitHub\ST2ITS2_OPG2-15\Gruppe14_Opgave_2_GUI\Gruppe14_Opgave_2_GUI\bin\Debug\Gruppe14_Opgave_2_GUI.exe.config
+C:\Users\2takk\Documents\GitHub\ST2ITS2_OPG2-15\Gruppe14_Opgave_2_GUI\Gruppe14_Opgave_2_GUI\obj\Debug\Gruppe14_Opgave_2_GUI.exe
+C:\Users\2takk\Documents\GitHub\ST2ITS2_OPG2-15\Gruppe14_Opgave_2_GUI\Gruppe14_Opgave_2_GUI\obj\Debug\Gruppe14_Opgave_2_GUI.pdb
+C:\Users\2takk\Documents\GitHub\ST2ITS2_OPG2-15\Gruppe14_Opgave_2_GUI\Gruppe14_Opgave_2_GUI\obj\Debug\Gruppe14_Opgave_2_GUI.csprojResolveAssemblyReference.cache
+C:\Users\2takk\Documents\GitHub\ST2ITS2_OPG2-15\Gruppe14_Opgave_2_GUI\Gruppe14_Opgave_2_GUI\obj\Debug\Gruppe14_Opgave_2_GUI.dataGUI.resources
+C:\Users\2takk\Documents\GitHub\ST2ITS2_OPG2-15\Gruppe14_Opgave_2_GUI\Gruppe14_Opgave_2_GUI\obj\Debug\Gruppe14_Opgave_2_GUI.formBMI.resources
+C:\Users\2takk\Documents\GitHub\ST2ITS2_OPG2-15\Gruppe14_Opgave_2_GUI\Gruppe14_Opgave_2_GUI\obj\Debug\Gruppe14_Opgave_2_GUI.formBS.resources
+C:\Users\2takk\Documents\GitHub\ST2ITS2_OPG2-15\Gruppe14_Opgave_2_GUI\Gruppe14_Opgave_2_GUI\obj\Debug\Gruppe14_Opgave_2_GUI.formBT.resources
+C:\Users\2takk\Documents\GitHub\ST2ITS2_OPG2-15\Gruppe14_Opgave_2_GUI\Gruppe14_Opgave_2_GUI\obj\Debug\Gruppe14_Opgave_2_GUI.Properties.Resources.resources
+C:\Users\2takk\Documents\GitHub\ST2ITS2_OPG2-15\Gruppe14_Opgave_2_GUI\Gruppe14_Opgave_2_GUI\obj\Debug\Gruppe14_Opgave_2_GUI.csproj.GenerateResource.Cache
+C:\Users\2takk\Documents\GitHub\ST2ITS2_OPG2-15\Gruppe14_Opgave_2_GUI\Gruppe14_Opgave_2_GUI\bin\Debug\Gruppe14_Opgave_2_GUI.exe
+C:\Users\2takk\Documents\GitHub\ST2ITS2_OPG2-15\Gruppe14_Opgave_2_GUI\Gruppe14_Opgave_2_GUI\bin\Debug\Gruppe14_Opgave_2_GUI.pdb
